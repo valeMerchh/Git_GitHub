@@ -1,0 +1,177 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*-------------- FORMULARIO --------------*/
+
+body { 
+	background-color:#AF9735; 
+	font-family: verdana; 
+}
+
+.contenedor{ 
+	width:70%; 
+	float:left; 
+	background-color:#FFF;
+	margin-top:5px; 
+	margin-left:15%; 
+}
+
+/* --------- EDITADO ---------*/
+.contenedor2{ 
+	width:99%; 
+	float:left; 
+	background-color:#FFF;
+	margin-top: 5px;
+	margin-bottom:15px; 
+	margin-left:5px; 
+}
+
+/*-------------- ENCABEZADO DEL HTML --------------*/
+
+header{ 
+	width:100%; 
+	float:left; 
+	text-align:center; 
+}
+
+header>div{ 
+	width:90%; 
+	background-color:#DBB635;
+    border-radius:13px; 
+    margin-left:5%; 
+}
+
+header>div>h1 { 
+	color:#FFF; 
+	padding:25px 0px 4px 0px; 
+}
+
+header>div>p { 
+	color:#C85153; 
+	font-weight:bold; 
+	padding-bottom:25px; 
+}
+
+/*--------------- CUERPO DEL HTML 1 ---------------*/
+
+nav { width:100%; 
+	float:left; 
+	text-align:center; 
+	line-height:50px; 
+	margin:20px 0px; 
+}
+
+nav>a { 
+	display:inline-block; 
+	width:20%; 
+	line-height:40px; 
+	border-radius:5px; 
+}
+
+/*--------------- CUERPO DEL HTML 2 ---------------*/
+
+section { 
+	width:90%; 
+	float:left; 
+	margin-left:5%; 
+	overflow:hidden; 
+}
+
+section>article { 
+	float:left; width:48%;
+	padding:4px 2px; 
+}
+
+nav>a:link, nav>a:visited { 
+	color:#FFF; 
+	background-color:#C85153;
+    text-decoration:none; 
+    font-weight:bold; 
+}
+
+.imagen { 
+	width:95%; 
+	margin:0px 0px 0px 10px; 
+	border-radius:10px; 
+}
+
+/*--------------- BUTTON DE ENLACE ---------------*/
+
+.vinculo { 
+	background-color:#DBB635;
+	color:#FFF; text-decoration:none;
+	 border-radius: 5px; padding:7px; 
+}
+
+/*--------------------- FOOTER ---------------------*/
+
+footer { 
+	width:100%; 
+	float:left; 
+	background-color:#DBB635; 
+	padding-top:10px; 
+}
+
+footer>p { 
+	text-align:center; 
+	font-weight:bold; 
+	font-size:12px; 
+}
+
+/*--------------------- DESCONOCIDOS ---------------------*/
+
+* { 
+	margin:0px; 
+	padding:0px; 
+}
+
+nav>a:hover { 
+	color:#000; 
+	background-color:#DD9698; 
+	text-decoration:underline; 
+}
+
+.banner { 
+	width:200px; 
+	height:150px; 
+}
+
+.texto { 
+	font-size:14px; 
+	text-align:justify; 
+	padding:8px 10px; 
+}
+
+.region { 
+	padding:20px 0px; 
+}
+
+.titulo { 
+	background-color:#C85153; 
+	color:#FFF;	
+	border-radius:15px;	
+	padding:13px 15px;
+	width: 95%;
+	text-align: left; 
+}
+
+.cuerpo { 
+	border:3px solid #C85153; 
+	margin:20px 5%;
+	width: 90%; 
+}
+
+.plato { 
+	width:300px; 
+	float:right; 
+	border-radius:50%; 
+	margin:10px;
+	margin-top:5px; 
+	marker-start:#FFF
+}
+
+.central { 
+	width:600px; 
+	height:350px;
+ 
+}

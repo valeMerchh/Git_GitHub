@@ -1,0 +1,90 @@
+/* Hoja de Estilo */
+body{	
+    background-color:#AF9735; 
+    font-family:verdana; 
+    }
+/* fondo de pagina*/
+    form {
+        background-color: white;
+        }
+
+/*Titulo*/
+    h1 {
+        color: #fcfcf5;
+        text-align: center;
+        font-family: sans-serif;
+        background-attachment: fixed;
+        }
+    h2{
+        color: #85423f;
+        text-align: center;
+        font-family: sans-serif;
+        background-attachment: fixed;
+        font-size: 20px;
+    }    
+/*tabla*/
+    table{ 
+        position: initial;
+        margin-top: 10px;
+        margin-left: 50px;
+        margin-right: 50px;
+        background: #d5af34ff ;
+        border: 1px solid #d5af34;
+        border-radius: 6px;
+        width: 90%;
+    }
+    
+        
+/*enlaces*/
+    h3{	
+        text-align: left;
+        margin-top: 6px;
+        color: #59b0af ;
+        font-size: 14px;
+        font-family: sans-serif;
+        }
+/*enlaces2*/
+     img{
+        text-align: left;
+        margin-top: 6px;
+        color:#3d5e66 ;
+        font-size: 14px;
+        #374955;  
+        }
+/*Imagen*/
+h4{
+margin-top: 6px;
+font-size: 16px;
+color: #3d5e66;
+text-align: center;
+} 
+/*titulo 2*/
+h5{
+    color: #374955;
+    text-align: left;
+    font-family: sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+}
+/*Imagen 2*/
+.borde{
+border: 2px solid #4d949a;
+float: left;
+}
+/*Parraflo*/
+p{
+font-size: 14px;
+color: #65757d;
+}
+/*Imagen 3*/
+.borde1{
+border: 2px solid #4d949a;
+float: right;
+}
+/*Redes*/
+.rs {
+padding-top: 10px;
+padding-bottom: 10px;
+float: left;
+}
+
