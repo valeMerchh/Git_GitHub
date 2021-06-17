@@ -20,9 +20,8 @@ A few resources to get you started if this is your first Flutter project:
 > Curso de Git y GitHub de Capdesis, la herramienta que todo desarrollador de software tiene que dominar
 > 
 En este curso vemos desde lo más básico has lo más avanzando en entornos reales
-* Esto es un ejemplo del curso, no tomar en serio :)
-For help gettings startend with Flutter, view our online documentation, which offers tutorials, samples, guidance on mobile development, and a full API reference.
+
 # AppCursoGit
 App creada para el curso de Git y GitHub.
-
-# Git_GitHub
+*Curso creado por CAPDESIS.
+*Instructor Jorge Salgado Miranda
