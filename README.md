@@ -1,33 +1,21 @@
-# AppCursoGit
-App creada para el curso de Git y GitHub.
+# Hola <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> Mi nombre es Jose :wink:	
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+## Soy Estudiante y Desarrollador de Software. 👨‍🎓 💻
 
-## Getting Started
+:pushpin: Actualmente estoy trabajando en un proyecto completo de un Sistema de E-commerce 🔭
 
-This project is a starting point for a Flutter application.
+:pushpin: Siempre soy estudiante porque tenemos que seguir aprendiendo cosas nuevas. 🌱
 
-A few resources to get you started if this is your first Flutter project:
+- 👯 Be collaborative! Help each other, and then we can create an amazing community.
+- 🎶 Mis Pasatiempos: Amo ver pelic y juegos en mis tiempos libres.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Mis Estadísticas de github
 
-> Curso de Git y GitHub de Capdesis, la herramienta que todo desarrollador de software tiene que dominar
-> 
-En este curso vemos desde lo más básico has lo más avanzando en entornos reales
+(https://github-readme-stats.vercel.app/api/?username=anuraghazra&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&border_color=2e4058)
 
-# AppCursoGit
-App creada para el curso de Git y GitHub.
-*Curso creado por CAPDESIS.
-*Instructor Jorge Salgado Miranda
-*Incluye Solucion de Dudas.
-*Com Ejemplos reales y trabajos en Equipo (Con ejemplos)
-*Para todo tipo de Programador (Movil, Web, etc).
-*Este commit si esta completado :)
-**Espero no me regañen**
-### Fecha de creación 2021.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=great-gatsby&show_icons=true)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=great-gatsby&border_color=red)
+
+
